@@ -6,7 +6,7 @@ Building scalable backend systems and real-world applications with strong engine
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Software Engineering Student at HCMUS
 - 💻 Backend-focused developer with product-building experience
@@ -15,43 +15,27 @@ Building scalable backend systems and real-world applications with strong engine
 
 ---
 
-## 🛠 Core Stack
+## Tech Stack
 
 ### Languages
 
-- C/C++/C#
-- Javascript/TypeScript
-- Java/Kotlin
-- Python
-- SQL/NoSQL
+[![Languages](https://skillicons.dev/icons?i=cpp,cs,java,kotlin,python,mysql,ts)](https://skillicons.dev)
 
-### Backend
+### Backend & Architecture
 
-- NestJS
-- Express.js
-- Flask/FastAPI
-- Spring Boot
+[![Backend](https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi,flask)](https://skillicons.dev)
 
 ### Frontend
 
-- React
-- Vite
-- Tailwind CSS
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,androidstudio)](https://skillicons.dev)
 
-### Data
+### Databases
 
-- PostgreSQL
-- Redis
-- MongoDB
-- MySQL
-- SQLite
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite)](https://skillicons.dev)
 
-### Engineering
+### DevOps & Tools
 
-- Git/GitHub
-- GitHub Actions
-- Docker
-- Linux
+[![DevOps](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx)](https://skillicons.dev)
 
 ---
 
@@ -81,16 +65,3 @@ Building scalable backend systems and real-world applications with strong engine
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoquangsang&show_icons=true&hide=issues)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoquangsang&layout=compact)
-
----
-
-## 🤝 Connect
-
-📧 sangdinhban@gmail.com  
-🌐 github.com/hoquangsang
-
----
-
-## Personal Motto
-
-Build useful systems. Keep improving.
