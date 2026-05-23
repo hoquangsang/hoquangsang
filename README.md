@@ -58,10 +58,3 @@ Building scalable backend systems and real-world applications with strong engine
 - Cloud Infrastructure
 - Observability & Reliability
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoquangsang&show_icons=true&hide=issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoquangsang&layout=compact)
