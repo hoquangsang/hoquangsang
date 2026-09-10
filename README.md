@@ -1,3 +1,4 @@
+<!--
 # Hi there, I'm Ho Quang Sang 👋
 
 ### Backend Engineer | Fullstack Capable
@@ -58,3 +59,4 @@ Building scalable backend systems and real-world applications with strong engine
 - Cloud Infrastructure
 - Observability & Reliability
 
+-->
