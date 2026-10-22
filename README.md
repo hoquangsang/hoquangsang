@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="50%" valign="top"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=go,ts,js,java,py" alt="Languages" /></td>
-    <td width="50%" valign="top"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,fastapi" alt="Backend" /> <img src="https://img.shields.io/badge/Echo%20(Go)-00758F?style=for-the-badge&logo=go&logoColor=white" alt="Echo" /></td>
+    <td width="50%" valign="top"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,fastapi" alt="Backend" /></td>
   </tr>
   <tr>
     <td width="50%" valign="top"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend" /></td>
